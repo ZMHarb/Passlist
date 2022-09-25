@@ -1,11 +1,10 @@
 
 # Passlist
 
-A study says that 59% of person use their names and birth date as password. 
-This tool generates a wordlist based on given personal information about a person.
+A study shows that 59% of people use their names and birth dates as passwords. 
+This tool generates a wordlist based on given personal information about the person.
 
-
-
+Furthermore, we will be releasing new features regarding this tool !!
 
 ## Installation
 
