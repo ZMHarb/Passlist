@@ -56,7 +56,7 @@ j0hnsmith111990
 J0hnsmith1990
 ...
 
->> ./passlist -p 3 -f john -l smith
+>> ./passlist.py -p 3 -f john -l smith
 ...
 J0hn Smith
 J0hn-Smith
